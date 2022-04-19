@@ -1,0 +1,81 @@
+a {
+    font-size: 30px;
+    color: cadetblue;
+}
+
+a#link
+{
+    color:rgb(128, 255, 0);
+}
+
+body {
+    color: bisque;
+    background-color: rgb(200, 217, 220);
+    background-image: url(https://wallpapercave.com/wp/58eyKEt.jpg);
+}
+
+h1#welcome {
+    color: antiquewhite;
+    text-indent: 50px;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Square Peg', cursive;
+    line-height: 0.3;
+}
+
+h1#namaste {
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    text-indent: 50px;
+}
+
+h1.fun_h{
+    color: antiquewhite;
+    text-indent: 50px;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Square Peg', cursive;
+}
+
+
+p#open{
+    color: bisque;
+    font-size: 40px;
+}
+p.inside{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+img{
+    width: 350px;
+    height: 250px;
+    border-style: groove;
+}
+
+.quotes{
+    color: rgba(240, 248, 255, 0.781);
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Square Peg', cursive;
+    font-size: 45px;
+}
+
+h2{
+    color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    text-indent: 50px;
+}
+
+li{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Square Peg', cursive;
+
+}
+
+.inp{
+    font-size: 20px;
+    text-align: center;
+    margin-right: 50px;
+}
